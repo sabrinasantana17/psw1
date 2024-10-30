@@ -2,7 +2,6 @@ p {
     background-color: blueviolet;
     text-align: center;
     color: black;
-
 }
 
 #par1 {
@@ -10,3 +9,58 @@ p {
     text-align: center;
     color: black;
 }
+
+.cl1 {
+    background-color: antiquewhite;
+    text-align: center;
+    color: black;
+}
+h1 {
+    background-color:blanchedalmond;
+    text-align: center;
+    color: black;
+    border: 2px solid;
+}
+div {
+    width: 500px;
+    height: 50px;
+    background-color: rgb(122, 191, 83);
+    opacity: 0.6;
+    border: 3px solid;
+    color: black;
+}
+table, th, td {
+    border: 1px solid;
+    margin: 25px;
+   
+  }
+  th {
+    background-color:rgb(205, 99, 138);
+  }
+  
+  table {
+    width: 90%;
+  }
+  
+  th {
+    height: 50px;
+  }
+  td {
+    text-align: center;
+  }
+  tr:hover {
+    background-color:rgb(211, 181, 208);
+  }
+  a:link, a:visited {
+    background-color: rgb(117, 150, 225);
+    color: black;
+    text-align: center;
+    padding: 15px 30px;
+    border: 2px solid;
+    text-decoration: none; 
+    display: inline-block;
+    
+  }
+  a:hover {
+    background-color: rgb(167, 182, 205);
+  }
