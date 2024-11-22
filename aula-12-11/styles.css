@@ -1,0 +1,60 @@
+.titulo{
+    background-color: rgb(87, 79, 79);
+    height:100px;
+    display: flex;
+    flex-direction: row; 
+  
+}
+#div1{
+    background-color: aqua;
+    width:200%;
+   
+    
+}
+#div2{
+    background-color: blueviolet;
+    width: 1200%;
+    
+}
+#div3{
+    background-color: blue;
+  width: 200%;
+  
+}
+.corpo{
+    background-color: azure;
+    height: 500px;
+    display: flex;
+   
+}
+#lado1{
+    background-color: cadetblue;
+    width: 50%;
+   
+}
+#lado2{
+    background-color: darkcyan;
+    width:50%;
+    
+}
+.rodape{
+    background-color: darkseagreen;
+    height: 100px;
+    display: flex;
+}
+#p1{
+    width: 25%;
+    background-color: darkslategrey;
+}
+#p2{
+    width: 25%;
+    background-color: rgb(22, 57, 57);
+}
+#p3{
+    width: 25%;
+    background-color: darkslategray;
+}
+#p4{
+   width: 25%; 
+   background-color: rgb(22,57,57);
+}

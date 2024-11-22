@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+}
+li{
+float: left; 
+border-right: 63px solid pink;
+border-left: 63px solid pink;
+background-color: pink;
+
+}
+li a{
+    display: block;
+    color: rgb(88, 78, 78);
+    text-decoration: none;
+    padding: 70px 100px;
+    text-align: center;
+
+}
+li a:hover{
+    background-color: rgb(170, 115, 159);
+
+}
